@@ -1,4 +1,4 @@
-package com.xiaoyixi.androidutils.utils;
+package com.xiaoyixi.utils;
 
 
 import android.app.AlertDialog;
@@ -9,8 +9,6 @@ import android.view.Window;
 import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
-
-import com.xiaoyixi.androidutils.R;
 
 public class IOSAlertDialog {
     Context context;

@@ -1,4 +1,4 @@
-package com.xiaoyixi.androidutils.utils;
+package com.xiaoyixi.utils;
 
 import java.io.Serializable;
 import java.math.BigDecimal;

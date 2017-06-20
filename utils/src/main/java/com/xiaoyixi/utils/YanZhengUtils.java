@@ -1,4 +1,4 @@
-package com.xiaoyixi.androidutils.utils;
+package com.xiaoyixi.utils;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

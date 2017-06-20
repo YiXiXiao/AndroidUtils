@@ -1,4 +1,4 @@
-package com.xiaoyixi.androidutils.utils;
+package com.xiaoyixi.utils;
 
 import android.app.Activity;
 import android.content.Context;

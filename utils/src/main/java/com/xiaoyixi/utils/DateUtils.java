@@ -1,4 +1,4 @@
-package com.xiaoyixi.androidutils.utils;
+package com.xiaoyixi.utils;
 
 import java.text.ParseException;
 import java.text.ParsePosition;
